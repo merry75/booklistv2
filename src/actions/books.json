@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "author": "Veronica Roth",
+    "authorRef": "https://en.wikipedia.org/wiki/Veronica_Roth",
+    "date": "2017-08-10",
+    "title": "Divergent",
+    "image": "http://static.tumblr.com/tgetjr7/b0en2und0/divergent_final.jpg"
+  },
+  {
+    "id": "2",
+    "author": "George Lucas",
+    "authorRef": "https://en.wikipedia.org/wiki/George_Lucas",
+    "date": "1977-05-05",
+    "title": "Star Wars - a new Hope",
+    "image": "https://cdn.images.express.co.uk/img/dynamic/36/590x/Star-wars-9-Anakin-and-Darth-Vader-force-ghost-leak-985172.jpg?r=1533001198664"
+  },
+  {
+    "id": "3",
+    "author": "J.K. Rolling",
+    "authorRef": "https://en.wikipedia.org/wiki/J._K._Rowling",
+    "date": "1997-02-02",
+    "title": "Harry Potter",
+    "image": "https://nerdist.com/wp-content/uploads/2015/06/Wizarding-World-of-Harry-Potter.jpg"
+  },
+  {
+    "id": "4",
+    "author": "Margret Mitchell",
+    "authorRef": "https://en.wikipedia.org/wiki/Margaret_Mitchell",
+    "date": "1936-10-08",
+    "title": "Gone with the WIND",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61JSc0ViP3L._SY355_.jpg"
+  },
+  {
+    "id": "5",
+    "author": "J.R.R. Tolkien",
+    "authorRef": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+    "date": "2017-08-10",
+    "title": "Lord of the Ring",
+    "image": "https://cdn3.whatculture.com/images/2015/02/trilogy-poster-600x400.jpg"
+  }
+]
