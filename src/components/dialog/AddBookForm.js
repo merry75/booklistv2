@@ -10,7 +10,7 @@ import Button from "@material-ui/core/Button";
 import Dialog from "@material-ui/core/Dialog";
 import PropTypes from "prop-types";
 import { withStyles } from "@material-ui/core/styles";
-import { addBook, editBook } from "../../actions/bookActions";
+import { addBook } from "../../actions/bookActions";
 import uuidv4 from "uuid/v4";
 
 const styles = theme => ({
@@ -295,5 +295,5 @@ const mapStateToProps = state => ({
 
 export default connect(
   mapStateToProps,
-  { addBook, editBook }
+  { addBook }
 )(withStyles(styles)(AddBookForm));
